@@ -51,9 +51,6 @@ body{
     color: var(--green);
     margin-top: .8em;
 }
-blockquote{
-
-}
 .social-links{
     list-style: none;
     text-align: center;
@@ -71,5 +68,5 @@ blockquote{
 .social-links li:active{
     background-color: var(--green);
     color: var(--dark-grey);
-    transition: all 0.3s;
+    transition: all 0.15s;
 }
